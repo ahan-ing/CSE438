@@ -4,11 +4,26 @@ https://www.overleaf.com/read/jdvnmzyytykx
 Unlisted YouTube video:
 https://youtu.be/yx1CMLv_0uQ
 
+Conference submitted paper / paper submission / login Link:
+TBD
+
 Paper title:
-Detecting and Mitigating Prompt Injection Attacks using quality dataset
+Detecting and Mitigating Prompt Injection attacks using Neural Networks
 
 Paper presentation (anyone can view without login):
-none
+https://youtu.be/yx1CMLv_0uQ
+
+Paper submission date (to workshop/conference):
+TBD
+
+Paper submission ID: (received) from conference/workshop
+TBD
+
+Conference Name:
+TBD
+
+Conference URL:
+TBD
 
 Group Number:
 6
