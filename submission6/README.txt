@@ -2,16 +2,16 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/jdvnmzyytykx
 
 Unlisted YouTube video:
-https://youtu.be/yx1CMLv_0uQ
+https://youtu.be/iFBGaGVheq0
 
 Conference submitted paper / paper submission / login Link:
 TBD
 
 Paper title:
-Detecting and Mitigating Prompt Injection attacks using Neural Networks
+Detecting Prompt Injection Attacks Against Applications Using Classifiers
 
 Paper presentation (anyone can view without login):
-https://youtu.be/yx1CMLv_0uQ
+https://reinforzai-my.sharepoint.com/:p:/g/personal/rafidhamid_reinforzai_onmicrosoft_com/EV6Wb5oEEohEoNBv3dHgDeMB14pCJ7bJ8bNZ9VeamJC9EA
 
 Paper submission date (to workshop/conference):
 TBD
